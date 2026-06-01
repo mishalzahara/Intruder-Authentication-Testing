@@ -129,32 +129,16 @@ Key observations included:
 * Effective comparison of authentication responses.
 * Improved understanding of web application request handling.
 
-*(Insert attack results screenshot here)*
-https://photos.google.com/documents/ChhTY3JlZW5zaG90cyAmIHJlY29yZGluZ3MiCRIHCgWyAQIYDijR5rWh6DM%3D/photo/AF1QipNtLhNL21dtYFXggTSW4B-cUhxaSmHhDpMlkouu
-https://photos.google.com/documents/ChhTY3JlZW5zaG90cyAmIHJlY29yZGluZ3MiCRIHCgWyAQIYDijR5rWh6DM%3D/photo/AF1QipNbyFrG2jUlPtGgRVy2eEHE4qBv_nCFZC_Iuuo-
+<img width="1903" height="1049" alt="1" src="https://github.com/user-attachments/assets/8b0d450f-f105-4bbc-8aba-7de3b5d874b2" />
+<img width="702" height="872" alt="2" src="https://github.com/user-attachments/assets/0646c0d4-a3c1-4500-94fb-c75d23c1a5c6" />
+<img width="1769" height="362" alt="3" src="https://github.com/user-attachments/assets/45598d6f-e1aa-4c0c-b002-f82bbfb10dbb" />
+<img width="1888" height="968" alt="4" src="https://github.com/user-attachments/assets/eb084b42-d42a-4256-81d9-4544eb5835a4" />
+<img width="1794" height="1026" alt="5" src="https://github.com/user-attachments/assets/27cdb463-97fc-421c-9a3a-7e64f931e6da" />
+<img width="1538" height="460" alt="6" src="https://github.com/user-attachments/assets/1d1209ea-3005-4d75-b948-e8f4e6c5a368" />
+<img width="1781" height="461" alt="7" src="https://github.com/user-attachments/assets/eb4412de-46d2-465a-8f6c-cbbf591288b9" />
+<img width="1633" height="891" alt="8" src="https://github.com/user-attachments/assets/47514ca1-d6d3-413c-aa7a-11faba7d7525" />
+<img width="1280" height="965" alt="IMG-20251013-WA0027" src="https://github.com/user-attachments/assets/e6831305-7bbf-4b6d-b497-44f48ad63876" />
 
-
----
-
-## Screenshots
-
-### Intruder Configuration
-
-Insert Screenshot:
-`intruder-configuration.png`
-
-Description:
-Shows the request loaded into Intruder, payload position selection, attack type configuration, and payload list setup.
-
----
-
-### Attack Results
-
-Insert Screenshot:
-`intruder-results.png`
-
-Description:
-Displays generated requests, status codes, response lengths, and response metrics collected during testing.
 
 ---
 
